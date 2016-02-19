@@ -23,7 +23,7 @@ header, article, aside, figure, figcaption, hgroup, section, nav{
 }
 
 nav a{
-    text-decoration:underline;
+    text-decoration:none;
 }
 
 body{
