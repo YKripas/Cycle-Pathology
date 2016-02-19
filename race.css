@@ -8,7 +8,7 @@
    Date:   2/18/2016
 
    Filename:         race.css
-   Supporting Files: 
+   Supporting Files:
 
 */
 header, article, aside, figure, figcaption, hgroup, section, nav{
@@ -23,7 +23,7 @@ header, article, aside, figure, figcaption, hgroup, section, nav{
 }
 
 nav a{
-    text-decoration: none;
+    text-decoration:underline;
 }
 
 body{
