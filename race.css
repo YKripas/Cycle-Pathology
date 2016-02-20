@@ -126,3 +126,36 @@ aside p{
     font-size: 90%;
     margin: 20px;
 }
+
+/*Article Element RUles*/
+article{
+    float: left;
+    width: 29%;
+    margin-left: 1%;
+    background-color: rgb(215,181,151);
+}
+
+article hgroup{
+    background-color: rgb(189,131,82);
+    background-image: url(alisha.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    color: rgb(215,181,151);
+    margin-bottom: 10px;
+    height: 60px;
+    text-indent: 20px;
+}
+article hgroup h1{
+    font-size: 150%;
+    font-weight: normal;
+}
+
+article hgroup h2{
+    font-size: 110%;
+    font-weight: normal;
+}
+
+article p{
+    font-size: 90%;
+    margin: 15px;
+}
