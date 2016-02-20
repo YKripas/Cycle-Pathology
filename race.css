@@ -66,3 +66,23 @@ header img{ /*setting the header image to 100% width of the header*/
 .horizontal a:hover{
     color: rgb(215,181,151);
 }
+
+/*Vertical Navigation Menu Rules*/
+.vertical ul li{
+    font-size: 85%;
+    list-style: none;
+}
+.vertical .newgroup{    /*making a subclass standout by putting some padding for every list item with 'newgroup' subclass*/
+    padding-top: 25px;
+}
+.vertical a{
+    color: white;
+    display: block;
+    text-indent: 10px;
+}
+.vertical a:hover{
+    background-color:rgb(51,51,51);
+    outline:2px;
+    outline-style: solid;
+    outline-color: rgb(215,181,151);
+}
