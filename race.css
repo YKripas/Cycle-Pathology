@@ -41,3 +41,6 @@ header{
     padding-bottom: 500px;
     
 }
+header img{ /*setting the header image to 100% width of the header*/
+    width: 100%;
+}
