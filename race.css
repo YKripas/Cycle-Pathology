@@ -32,3 +32,12 @@ body{
     min-width: 1000px;
     max-width: 1400px;
 }
+header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20%;
+    background-color: black;
+    padding-bottom: 500px;
+    
+}
