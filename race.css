@@ -86,3 +86,28 @@ header img{ /*setting the header image to 100% width of the header*/
     outline-style: solid;
     outline-color: rgb(215,181,151);
 }
+
+/*Main Section of the page rules*/
+#main{
+    clear: left;
+    float:left;
+    margin-left: 21%;
+    margin-top: 20px;
+    width: 49%;
+}
+#main h1{
+    color: rgb(189,131,82);
+    font-size: 180%;
+    font-weight: normal;
+    letter-spacing: 5px;
+}
+#main p{
+    margin: 15px;
+}
+#main ul{
+    list-style-type: disc;
+    margin: 25px;
+}
+#main ul li{
+    margin-bottom: 10px;
+}
