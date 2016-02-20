@@ -111,3 +111,18 @@ header img{ /*setting the header image to 100% width of the header*/
 #main ul li{
     margin-bottom: 10px;
 }
+
+/*Aside Element Rules*/
+aside{
+    border: 3px solid;
+    border-color: rgb(149,91,42);
+    color: rgb(149,91,42);
+    float: right;
+    margin: 10px;
+    width: 50%;
+    border-radius: 30px;
+}
+aside p{
+    font-size: 90%;
+    margin: 20px;
+}
