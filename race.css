@@ -159,3 +159,27 @@ article p{
     font-size: 90%;
     margin: 15px;
 }
+
+/*Figure box style rules*/
+figure{
+    clear: left;
+    float: left;
+    margin-left: 21%;
+    width: 79%;
+    background-color: rgb(149,91,42);
+}
+figure div{
+    overflow: scroll;
+    white-space: nowrap;
+}
+figure div img{
+    margin: 10px;
+    border-radius: 10px;
+}
+figure figcaption{
+    background-color: white;
+    font-size: 80%;
+    font-style: italic;
+    text-align: center;
+    margin-top: 5px;
+}
